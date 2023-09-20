@@ -1,0 +1,7 @@
+/rds/general/project/fisher-aspergillus-rawdata/live/clarisse/human_brain_fasta/bc1_filtered.fasta bc1_filtered
+/rds/general/project/fisher-aspergillus-rawdata/live/clarisse/human_brain_fasta/bc2_filtered.fasta bc2_filtered
+/rds/general/project/fisher-aspergillus-rawdata/live/clarisse/human_brain_fasta/bc3_filtered.fasta bc3_filtered
+/rds/general/project/fisher-aspergillus-rawdata/live/clarisse/human_brain_fasta/bc4_filtered.fasta bc4_filtered
+/rds/general/project/fisher-aspergillus-rawdata/live/clarisse/human_brain_fasta/bc5_filtered.fasta bc5_filtered
+/rds/general/project/fisher-aspergillus-rawdata/live/clarisse/human_brain_fasta/bc6_filtered.fasta bc6_filtered
+
